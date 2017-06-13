@@ -1,0 +1,14 @@
+#inputText, #chatLog {
+    border: solid 1px black;
+    width: 100%;
+}
+
+#chatLog {
+    height: 200px;
+}
+
+body {
+    font-family: fantasy;
+    background-color: gray;
+    border-color: white;
+}
