@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1478556295 source:c:\users\nick\documents\c\codeblocks\t07\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"t07defs.h"
+
+1383944067 c:\users\nick\documents\c\codeblocks\t07\t07defs.h
+

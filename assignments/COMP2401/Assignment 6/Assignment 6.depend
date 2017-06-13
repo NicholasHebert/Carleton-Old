@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1478822486 source:c:\users\nick\documents\c\codeblocks\assignment 6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"A6Defs.h"
+
+1478789048 c:\users\nick\documents\c\codeblocks\assignment 6\a6defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

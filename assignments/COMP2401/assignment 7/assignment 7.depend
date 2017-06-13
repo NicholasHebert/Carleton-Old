@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+978382832 source:c:\users\nick\desktop\assignment 7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"a7Defs.h"
+
+978336156 c:\users\nick\desktop\assignment 7\a7defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
